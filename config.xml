@@ -1,0 +1,7 @@
+<service>
+	<serviceName>publicidad</serviceName>
+	<serviceDescription>Muestra ofertas de publicidad en Apretaste. Promociona negocios locales que pueden ofrecer justo lo que usted busca</serviceDescription>
+	<creatorEmail>salvi@apretaste.com</creatorEmail>
+	<serviceCategory>negocios</serviceCategory>
+	<showAds>0</showAds>
+</service>
